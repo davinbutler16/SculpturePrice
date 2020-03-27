@@ -1,0 +1,8 @@
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\bin\Debug\SculpturePrice.exe.config
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\bin\Debug\SculpturePrice.exe
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\bin\Debug\SculpturePrice.pdb
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\obj\Debug\SculpturePrice.csprojAssemblyReference.cache
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\obj\Debug\SculpturePrice.exe
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\obj\Debug\SculpturePrice.pdb
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\obj\Debug\SculpturePrice.Program.resources
+C:\Users\Butler\source\repos\SculpturePrice\SculpturePrice\obj\Debug\SculpturePrice.csproj.GenerateResource.cache
